@@ -1,0 +1,36 @@
+.repository-item {
+  list-style-type: none;
+  background-color: #f8f8ff;
+  border-radius: 10px;
+  margin: 15px;
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+.avatar {
+  width: 120px;
+}
+
+.counts-section {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  list-style-type: none;
+}
+.all-counts {
+  display: flex;
+  align-items: center;
+}
+.icon-img {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+.name {
+  font-size: 30px;
+  color: #e73959;
+}
